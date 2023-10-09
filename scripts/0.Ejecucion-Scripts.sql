@@ -30,6 +30,10 @@ source /scripts/7.Carga-Fact_Ventas.sql
 
 source /scripts/8.Consulta.sql
 
+-- Consulta Bodega de Datos
+
+source /scripts/9.Consulta-2.sql
+
 -------------------------
 
 
